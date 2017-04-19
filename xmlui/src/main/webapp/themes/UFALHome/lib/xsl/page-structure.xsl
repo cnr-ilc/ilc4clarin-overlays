@@ -865,7 +865,7 @@
 		<div class="col-md-5 col-lg-4 hidden-xs hidden-sm">
 			<div class="row">
 				<div style="height: 160px; position: relative;" class="col-md-7 col-lg-7">
-				  <a href="http://clarin-it.ilc.cnr.it">
+				  <a href="https://ilc4clarin.ilc.cnr.it/">
 			            <img src="{$context-path}/themes/UFAL/images/lindat/ILC-CNR_for_CLARIN-IT_Logo.png" style="position: absolute; height: 70%; top: 0px; bottom: 0px; margin: auto;" class="logo" alt="ILC-CNR for CLARIN-IT logo" /></a>
 				</div>
 		                <div style="height: 160px; position: relative;" class="col-md-5 col-lg-5">
