@@ -40,7 +40,7 @@
 					<li class="always-open hidden-xs">
 						<div style="background-color: #FFFFFF;" class="clearfix">
 							<div class="col-sm-7" style="height: 120px; position: relative;">
-								<a href="http://clarin-it.ilc.cnr.it">
+								<a href="https://ilc4clarin.ilc.cnr.it">
 									<img alt="ILC-CNR for CLARIN-IT logo" class="img-responsive" style="position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; padding: 20px;" src="{$context-path}/themes/UFAL/images/lindat/ILC-CNR_for_CLARIN-IT_Logo.png" />
 								</a>
 							</div>
