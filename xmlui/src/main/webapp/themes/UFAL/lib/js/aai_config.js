@@ -20,7 +20,7 @@ jQuery(document).ready(
             //Works only with "verified" SPs - ie. ufal-point, displays error on ufal-point-dev
          //   instance.responseUrl = '.'; 
             instance.responseUrl = 
-              (window.location.hostname.search("dspace-clarin-it") >= 0) ?
+              (window.location.hostname.search("dev2-clarin") >= 0) ?
                         "" :
                         instance.host + instance.port + instance.repoPath +
                             "themes/UFAL/lib/html/disco-juice.html?";
