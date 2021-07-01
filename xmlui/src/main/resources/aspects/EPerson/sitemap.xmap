@@ -150,7 +150,7 @@ registration, forgotten passwords, editing profiles, and changing passwords.
 			        <map:transform type="Include" src="noAuthMethod.xml" />
 			        <map:serialize type="xml"/>
 			      </map:when>
-			      <map:when test ="1">
+			      <map:when test ="2">
 			      	<map:act type="LoginRedirect" />  
 			      </map:when>
 			      <map:otherwise>
